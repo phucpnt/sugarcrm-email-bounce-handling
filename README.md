@@ -1,4 +1,5 @@
-sugarcrm-email-bounce-handling
-==============================
+# SugarCRM Email Bounce Handler
+Marks bounced addresses as invalid in SugarCRM.
 
-Bounced email handler which marks bounced addresses as invalid in SugarCRM
+## Install
+* Copy EmailBounceHandler.php to custom/modules/Scheduler
